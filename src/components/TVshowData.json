@@ -1,0 +1,419 @@
+{
+    "title": "That '70s Show",
+    "description": "Eric, a high school student, and his group of teenage friends struggle with adolescence in 1970s Wisconsin.",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+    "genre": "Comedy",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Pilot",
+            "description": "Eric gets his first car and the gang heads to a concert.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "videoUrl": "https://video.everythingwithai.com/$/c5uH8"
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Eric's Birthday",
+            "description": "Eric's mom throws him a birthday party that he doesn't want.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Streaking",
+            "description": "The boys decide to streak through a presidential rally.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Battle of the Sexists",
+            "description": "Eric and Donna compete in ping-pong.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Eric's Burger Job",
+            "description": "Eric gets a job at a fast-food restaurant.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 6,
+            "title": "The Keg",
+            "description": "The gang finds a keg and decides to throw a party.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 7,
+            "title": "That Disco Episode",
+            "description": "The gang goes to a disco, and Hyde learns to dance.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Drive-In",
+            "description": "Eric and Donna's date night at the drive-in doesn't go as planned.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Thanksgiving",
+            "description": "Laurie brings a college boy home for Thanksgiving.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Sunday, Bloody Sunday",
+            "description": "Eric spends the day with his grandmother.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Eric's Buddy",
+            "description": "Eric's new friend Buddy is gay and has a crush on him.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 12,
+            "title": "The Best Christmas Ever",
+            "description": "The gang has their own Christmas party in the basement.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 13,
+            "title": "Ski Trip",
+            "description": "The gang goes on a ski trip without Eric after Donna kisses another boy.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 14,
+            "title": "Stolen Car",
+            "description": "Kelso drives a stolen car, and Hyde dates a hot girl.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 15,
+            "title": "That Wrestling Show",
+            "description": "Red takes Eric and the guys to a wrestling match.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 16,
+            "title": "The First Date",
+            "description": "Eric and Donna go on their first real date.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 17,
+            "title": "The Pill",
+            "description": "Donna takes birth control pills, leading to confusion.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 18,
+            "title": "The Career Day",
+            "description": "The kids spend the day with their parents at work.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 19,
+            "title": "Prom Night",
+            "description": "The gang prepares for prom, but nothing goes as planned.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 20,
+            "title": "A New Hope",
+            "description": "Eric and the guys see Star Wars, and Eric dreams he's Luke Skywalker.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 21,
+            "title": "Water Tower",
+            "description": "The gang paints a pot leaf on the water tower.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 22,
+            "title": "Punk Chick",
+            "description": "Hyde's punk girlfriend asks him to run away with her.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 23,
+            "title": "Grandma's Dead",
+            "description": "Eric feels guilty after his grandmother dies.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 24,
+            "title": "Hyde Moves In",
+            "description": "Hyde moves in with the Formans after his mom leaves.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          },
+          {
+            "episodeNumber": 25,
+            "title": "The Good Son",
+            "description": "Eric becomes jealous of the attention Hyde gets from his parents.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 1
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Garage Sale",
+            "description": "The Formans have a garage sale and the gang tries smoking.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Red's Last Day",
+            "description": "Red gets drunk on his last day at the plant.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 3,
+            "title": "The Velvet Rope",
+            "description": "Eric and Donna sneak into a club.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Laurie and the Professor",
+            "description": "Laurie has an affair with one of her college professors.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Halloween",
+            "description": "The gang spends Halloween in their old, abandoned school.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Vanstock",
+            "description": "The gang goes to Vanstock, and Hyde and Kelso's love lives get complicated.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 7,
+            "title": "I Love Cake",
+            "description": "Eric tells Donna he loves her, but she doesn't say it back.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Sleepover",
+            "description": "Donna sleeps over at Eric's, but his parents find out.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Eric Gets Suspended",
+            "description": "Eric gets suspended from school for smoking in the bathroom.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Red's Birthday",
+            "description": "Red doesn't want a party for his birthday, but Kitty throws one anyway.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Laurie Moves Out",
+            "description": "Laurie moves out, and Kitty worries about her.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Eric's Stash",
+            "description": "Eric finds his secret stash missing and assumes his parents found it.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 13,
+            "title": "Hunting",
+            "description": "Red and Bob take the boys on a hunting trip.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 14,
+            "title": "Red Gets a Job",
+            "description": "Red gets a job at a new store, and Eric gets a new boss.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 15,
+            "title": "Burning Down the House",
+            "description": "Eric accidentally sets the house on fire.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 16,
+            "title": "The First Time",
+            "description": "Eric and Donna have sex for the first time.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 17,
+            "title": "Afterglow",
+            "description": "Eric isn't as good in bed as he thought.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 18,
+            "title": "Kitty and Eric's Night Out",
+            "description": "Eric and Kitty have a night out, but it doesn't go as planned.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 19,
+            "title": "Parents Find Out",
+            "description": "Eric's parents find out about him and Donna.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 20,
+            "title": "Kiss of Death",
+            "description": "Eric catches Donna kissing another guy.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 21,
+            "title": "Kelso's Serenade",
+            "description": "Kelso serenades Jackie to win her back.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 22,
+            "title": "Jackie Moves On",
+            "description": "Jackie moves on from Kelso, but he wants her back.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 23,
+            "title": "Holy Crap!",
+            "description": "Eric's parents catch him with Donna in bed.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 24,
+            "title": "Red Fired Up",
+            "description": "Red gets fired from his job and takes it out on the family.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          },
+          {
+            "episodeNumber": 25,
+            "title": "Cat Fight Club",
+            "description": "Jackie and Laurie fight over Kelso.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/That_%2770s_Show_logo.png/220px-That_%2770s_Show_logo.png",
+            "duration": "22 minutes",
+            "seasonNumber": 2
+          }
+        ]
+      }
+    ]
+  }
+  
